@@ -1,0 +1,26 @@
+{
+  "name": "a2tar-sysctl",
+  "version": "0.1.0",
+  "summary": "Puppet sysctl editor for ubuntu",
+  "author": "A2tar",
+  "description": "Puppet sysctl editor for ubuntu",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "Modulefile": "01e04b4a5239bf4c101bc5cb4c539586",
+    "README.markdown": "de5f5a0a8fccae217174676ab964de18",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests/config.pp": "3f8427db2d4dde22401dfbd98d4c7e63",
+    "manifests/init.pp": "63de4edbffade44e8a0d7628c593c969",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests/init.pp": "c37e60752d6d23d542b366fe25d03e52"
+  },
+  "source": "https://github.com/a2tar/sysctl.git",
+  "project_page": "https://github.com/a2tar/sysctl",
+  "license": "MIT License"
+}
