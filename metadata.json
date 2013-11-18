@@ -1,0 +1,13 @@
+{
+  "name": "a2tar-sysctl",
+  "version": "0.1.0",
+  "summary": "Puppet sysctl editor for ubuntu",
+  "author": "A2tar",
+  "description": "Puppet sysctl editor for ubuntu",
+  "dependencies": [],
+  "types": [],
+  "checksums": {},
+  "source": "",
+  "project_page": "https://github.com/a2tar/sysctl",
+  "license": "MIT License"
+}
