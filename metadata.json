@@ -7,7 +7,7 @@
   "dependencies": [],
   "types": [],
   "checksums": {},
-  "source": "",
+  "source": "https://github.com/a2tar/sysctl.git",
   "project_page": "https://github.com/a2tar/sysctl",
   "license": "MIT License"
 }

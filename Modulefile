@@ -1,6 +1,6 @@
 name    'a2tar-sysctl'
 version '0.1.0'
-source ''
+source 'https://github.com/a2tar/sysctl.git'
 author 'A2tar'
 license 'MIT License'
 summary 'Puppet sysctl editor for ubuntu'
