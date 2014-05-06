@@ -5,7 +5,7 @@ class sysctl {
 		},
 	}
 
-	exec { "sysctl -p":
+	exec { "/sbin/sysctl -p":
 		alias => "sysctl",
 		refreshonly => true,
 		subscribe => File["sysctl.conf"],
