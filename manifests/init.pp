@@ -9,5 +9,6 @@ class sysctl {
 		alias => "sysctl",
 		refreshonly => true,
 		subscribe => File["sysctl.conf"],
+                path => "/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin",
 	}
 }
